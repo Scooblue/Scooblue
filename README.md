@@ -34,11 +34,11 @@ Brief description of the project. Highlight the key features and technologies us
 
 ## Cybersecurity
 
-### [Security Project Name](Link to Project)
+### [Vulnerability Assessment/Penetration Test & Report](Link to Project)
 Brief description of your cybersecurity project or research. Mention any specific tools or techniques used.
 
-- **Tech Stack:** [e.g., Kali Linux, Metasploit, Wireshark]
-- **Focus Area:** [e.g., Penetration Testing, Network Security]
+- **Tech Stack:** [Qualys VM, VBox, Parrot Linux, BurpSuite, NMAP]
+- **Focus Area:** [Vulnerability Assessment, Penetration Testing, Risk Assessment, Web Application Security]
 - **Link:** [GitHub Repository](Link to Repository)
 
 ### [Security Project Name](Link to Project)
