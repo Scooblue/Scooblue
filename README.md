@@ -1,20 +1,41 @@
 # Welcome to My GitHub Portfolio
 
-Hello! I'm Declan Coleman, a passionate Cybersecurity student and Software Engineer. Welcome to my GitHub portfolio, where you can find my projects.
-
-<!---## About Me
+Hello! I'm Declan Coleman, a passionate Cybersecurity student and Software Engineer. Welcome to my GitHub portfolio!
+<!----
+## About Me
 
 - **Location:** [United States of America]
-- **Email:** [declancoleman34@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/declan-coleman-129a2b1b0]
-- **Website/Blog:** [Your Website/Blog]
 
 ## Skills
 
-- **Programming Languages:** [Python, Javascript, ]
-- **Frameworks:** [e.g., React, Django, Node.js]
-- **Tools & Technologies:** [e.g., Docker, Git, AWS]
-- **Other:** [e.g., Agile, TDD]
+| **Programming Languages** | **Frameworks** | **Deployment** |
+|:---------------------------:|:----------------:|:----------------:|
+| ![Python](https://github.com/user-attachments/assets/43de1f79-db6e-4d2b-9262-f7e84ad3608c) | ![React](https://github.com/user-attachments/assets/59399123-09fa-493b-9569-90946da161ce) | ![Docker](https://github.com/user-attachments/assets/3da6795c-ce8c-49b9-8cb9-b40844a6b38b) |
+| ![C](https://github.com/user-attachments/assets/74bcd284-8c1f-44a5-a0f0-4b9d23f4a17b) | ![Flask](https://github.com/user-attachments/assets/08e9de98-25e0-4026-9c2e-4ba24624d27e) | ![Git](https://github.com/user-attachments/assets/bc66f36c-3f2b-4502-b640-abc4abecba52) |
+| ![Bash](https://github.com/user-attachments/assets/c5b550a8-89d5-401a-a84b-095e717ddb73) |  | ![Azure](https://github.com/user-attachments/assets/817297ee-0360-412c-b65d-1aa4ae519dda) |
+
+
+  
+ **Security:** 
+
+| Skill Area             | Example Skills                                   |
+|------------------------|-------------------------------------------------|
+| Threats, Attacks, and Vulnerabilities | Malware identification, Social engineering |
+| Security Technologies and Tools | Firewall management, IDS/IPS implementation |
+| Architecture and Design | Secure network design, Cloud security concepts  |
+| Identity and Access Management (IAM) | MFA, SSO implementation, Account management, ACL |
+| Risk Management         | Risk assessments, Incident response planning    |
+| Cryptography and PKI    | Encryption techniques, PKI management           |
+| Operations and Incident Response | Log analysis, Digital forensics, DLP implementation |
+| Security Policies and Procedures | Policy development, Security training   |
+
+
+
+
+
+
+
 
 ## Projects
 
