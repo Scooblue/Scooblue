@@ -37,7 +37,7 @@ Currently I am working on two things....
 
 | Linux | Ubuntu | Parrot | Win11|
 |----------|----------|----------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/parrotlinux/parrotlinux-original-wordmark.svg" title="Parrot" alt="Linux" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/master/icons/windows11/windows11-original.svg" title="win11" alt="win" width="55" height="55"/>
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/parrotlinux/parrotlinux-original-wordmark.svg" title="Parrot" alt="Parrot" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/master/icons/windows11/windows11-original.svg" title="win11" alt="win" width="55" height="55"/>
 
 ## Miscellaneous:
 
