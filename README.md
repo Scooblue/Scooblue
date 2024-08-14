@@ -1,7 +1,7 @@
 # Welcome to My GitHub Portfolio
 
 Hello! I'm Declan Coleman, a Cybersecurity student and Software Engineer. Welcome to my GitHub portfolio!
-
+<!------
 ## About Me
 
 - **Location:** [United States of America]
