@@ -5,7 +5,7 @@
 ## About Me
 Hello, I am a aspiring cybersecurity and or software engineer professional, I identify myself as a student and scholar of the craft. I am mainly focused on machine learning, malware/exploit development, security, and data confidentiality and integrity.
 
-# Current 
+## Current 
 Currently I am working on two things....
 1. a social media bot which automatically scrapes, analyzes and determines if the clip will trend, and then edits, and transforms the content in a trendy manner and posts the content.
 2. Adversarial AI proof of concept and then an equal Defender 
