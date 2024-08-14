@@ -1,22 +1,53 @@
 # Welcome to My GitHub Portfolio
 
-Hello! I'm Declan Coleman, a Cybersecurity student and Software Engineer. Welcome to my GitHub portfolio!
-<!------
+
+
 ## About Me
+Hello, I am a aspiring cybersecurity and or software engineer professional, I identify myself as a student and scholar of the craft. I am mainly focused on machine learning, malware/exploit development, security, and data confidentiality and integrity.
 
-- **Location:** [United States of America]
-- **LinkedIn:** [www.linkedin.com/in/declan-coleman-129a2b1b0]
-
-## Skills
-
-| **Programming Languages** | **Frameworks** | **Deployment** |
-|:---------------------------:|:----------------:|:----------------:|
-| ![Python](https://github.com/user-attachments/assets/43de1f79-db6e-4d2b-9262-f7e84ad3608c) | ![React](https://github.com/user-attachments/assets/59399123-09fa-493b-9569-90946da161ce) | ![Docker](https://github.com/user-attachments/assets/3da6795c-ce8c-49b9-8cb9-b40844a6b38b) |
-| ![C](https://github.com/user-attachments/assets/74bcd284-8c1f-44a5-a0f0-4b9d23f4a17b) | ![Flask](https://github.com/user-attachments/assets/08e9de98-25e0-4026-9c2e-4ba24624d27e) | ![Git](https://github.com/user-attachments/assets/bc66f36c-3f2b-4502-b640-abc4abecba52) |
-| ![Bash](https://github.com/user-attachments/assets/c5b550a8-89d5-401a-a84b-095e717ddb73) |  | ![Azure](https://github.com/user-attachments/assets/817297ee-0360-412c-b65d-1aa4ae519dda) |
+# Current 
+Currently I am working on two things....
+1. a social media bot which automatically scrapes, analyzes and determines if the clip will trend, and then edits, and transforms the content in a trendy manner and posts the content.
+2. Adversarial AI proof of concept and then an equal Defender 
 
 
-  
+## Languages:
+
+|Python3 | JS | C | Bash | 
+|--------|----|---|-------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="55" height="55"/>
+
+## Most Used Python Libraries/Frameworks:
+
+| Pytorch | Selenium | Numpy | Pandas | Sklearn | Tensorflow |
+|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensor" alt="tensor" width="55" height="55"/>|
+
+
+
+## Data Visualization and Manipulation:
+
+
+| Jupyter| MySQL | SQLite | Plotly | Matpltlib |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
+
+
+### OS:
+
+| Linux | Ubuntu | Parrot | Win11|
+|----------|----------|----------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/parrotlinux/parrotlinux-original-wordmark.svg" title="Parrot" alt="Linux" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/master/icons/windows11/windows11-original.svg" title="win11" alt="win" width="55" height="55"/>
+
+## Miscellaneous:
+
+| Git | Docker | Postman | VBox | 
+|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/>|
+
+
+
+
  **Security:** 
 
 | Skill Area             | Example Skills                                   |
@@ -36,7 +67,7 @@ Hello! I'm Declan Coleman, a Cybersecurity student and Software Engineer. Welcom
 
 
 
-
+<!-------
 ## Projects
 
 ### [Project Name](Link to Project)
@@ -69,13 +100,7 @@ Brief description of your cybersecurity project or research. Mention any specifi
 - **Focus Area:** [e.g., Web Application Security, Vulnerability Assessment]
 - **Link:** [GitHub Repository](Link to Repository)
 
-## Contact
-
-Feel free to reach out if you have any questions or just want to connect!
-
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
 
 ---
 
-Thanks for visiting my portfolio! 🚀 -->
+ -->
