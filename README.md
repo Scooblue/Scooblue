@@ -62,14 +62,14 @@ Currently I am working on two things....
 | Security Policies and Procedures | Policy development, Security training   |
 
 <br><br>
-
+<!-----
 <td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scooblue&hide_border=true&layout=compact" align="left" style="width: 73%" />
 
 </td></tr></table>  
 
-
+--->
 
 
 <!-------
