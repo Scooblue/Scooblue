@@ -61,7 +61,7 @@ Currently I am working on two things....
 | Operations and Incident Response | Log analysis, Digital forensics, DLP implementation |
 | Security Policies and Procedures | Policy development, Security training   |
 
-<br><br>
+
 <!-----
 <td valign="top" width="50%">
 
