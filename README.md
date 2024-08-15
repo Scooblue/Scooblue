@@ -3,7 +3,7 @@
 
 
 ## About Me
-Hello, I am a aspiring cybersecurity and or software engineer professional, I identify myself as a student and scholar of the craft. I am mainly focused on machine learning, malware/exploit development, security, and data confidentiality and integrity.
+Hello, I am an aspiring cybersecurity and or software engineer professional, I identify myself as a student and scholar of the craft. I am mainly focused on machine learning, malware/exploit development, security, and data confidentiality and integrity.
 
 ## Current 
 Currently I am working on two things....
