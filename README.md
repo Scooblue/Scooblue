@@ -8,7 +8,7 @@ Hello, I am an aspiring cybersecurity and or software engineer professional, I i
 ## Current 
 Currently I am working on two things....
 1. a social media bot which automatically scrapes, analyzes and determines if the clip will trend, and then edits, and transforms the content in a trendy manner and posts the content.
-2. Adversarial AI proof of concept and then an equal Defender 
+2. Adversarial AI testing, experimenting, proof of concept.
 
 
 ## Languages:
