@@ -6,8 +6,7 @@
 Hello, I am a cybersecurity and/or software engineer professional, I identify myself as a student and scholar of the craft. I am mainly focused on machine learning, malware/exploit development, security, and data confidentiality and integrity.
 
 ## Current 
-Currently I am working on 
-1. a social media bot which automatically scrapes, analyzes and determines if the clip will trend, and then edits, and transforms the content in a trendy manner and posts the content.
+Currently I am working on replicating the UC Berkley PHd Students methodology to specialize an MoE model at one task with as little financial resources as possible, ($50 or less) 
    
 
 
